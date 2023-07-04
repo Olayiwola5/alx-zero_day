@@ -1,4 +1,5 @@
 git clone 
 git add
-git commit -m "Initial commit"
+git commit -m
 git push
+git pull
