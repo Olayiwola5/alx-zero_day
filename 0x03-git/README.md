@@ -1,2 +1,2 @@
 0x03-git
-zero_day
+zero_day projects
