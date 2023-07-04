@@ -1,5 +1,4 @@
-git clone <repo>
-touch test
-git add test
+git clone 
+git add
 git commit -m "Initial commit"
-git push origin main
+git push
